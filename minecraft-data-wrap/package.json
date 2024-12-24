@@ -1,0 +1,26 @@
+{
+  "name": "minecraft-data-wrap",
+  "version": "1.0.0",
+  "description": "A wraper around minecraft-data. Downloads data on install so you don't have to worry about me forgeting to update this.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coolchickenguy/brinecraftServer.git"
+  },
+  "scripts": {
+    "install": "node install.js"
+  },
+  "keywords": [
+    "Minecraft"
+  ],
+  "author": "Coolchickenguy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Coolchickenguy/brinecraftServer/issues"
+  },
+  "homepage": "https://github.com/Coolchickenguy/brinecraftServer#readme",
+  "dependencies": {
+    "mkdirp": "^3.0.1",
+    "yauzl": "^3.2.0"
+  }
+}
