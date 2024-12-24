@@ -1,2 +1,2 @@
-# brinecraftServer
-A minecraft server. In nodejs.
+# brinecraft
+Minecraft utils "In a real pickle" 
